@@ -3,7 +3,7 @@
 Pandas, Numpy, Matplotlib, Seaborn, Plotly
 
 # Visuals are also saved as png in the directory
-
+![alt text](https://github.com/axe-rishabh/Craiglist-Used-Cars-Data-Analysis/blob/main/Chassis's%20Color.png)
 # Overview
 
 The raw data was with labels [Price, manufacturer, type , Color, state, etc, etc]. First step was data cleaning since it had a lot of Nan values which would have resulted in deviated insghts. 
