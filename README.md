@@ -1,9 +1,6 @@
 # Craiglist-Used-Cars-Data-Analysis
 # Libraries Used for analyzing Used Cards Dataset.
 Pandas, Numpy, Matplotlib, Seaborn, Plotly
-
-# Visuals are also saved as png in the directory
-![alt text](https://github.com/axe-rishabh/Craiglist-Used-Cars-Data-Analysis/blob/main/Chassis's%20Color.png)
 # Overview
 
 The raw data was with labels [Price, manufacturer, type , Color, state, etc, etc]. First step was data cleaning since it had a lot of Nan values which would have resulted in deviated insghts. 
@@ -17,3 +14,12 @@ Company specific insights:
 	Count of used models models of Lexus, Ford
 	Lineploting graph (AUDI Model name vs Price in $)
 	Count of cars brand wise in some popular states of US
+
+
+# Visuals
+more visuals are saved in the repo folder
+![alt text](https://github.com/axe-rishabh/Craiglist-Used-Cars-Data-Analysis/blob/main/Chassis's%20Color.png)
+![alt text](https://github.com/axe-rishabh/Craiglist-Used-Cars-Data-Analysis/blob/main/Launching%20Year%20of%20Car%20Model.png)
+![alt text](https://github.com/axe-rishabh/Craiglist-Used-Cars-Data-Analysis/blob/main/state%20wise%20distribution%20of%20no.%20of%20used%20cars.png)
+![alt text](https://github.com/axe-rishabh/Craiglist-Used-Cars-Data-Analysis/blob/main/Transmission.png)
+![alt text]()
